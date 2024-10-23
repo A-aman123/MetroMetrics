@@ -2,7 +2,6 @@
 
 ### README.md
 
-```markdown
 # MetroMetrics: Analyzing Delhi Metro Transit Patterns
 
 ## Overview
