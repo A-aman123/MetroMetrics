@@ -1,4 +1,3 @@
-### Project Title
 **MetroMetrics: Analyzing Delhi Metro Transit Patterns**
 
 ### README.md
